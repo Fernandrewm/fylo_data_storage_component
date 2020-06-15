@@ -143,6 +143,7 @@ body{
   .container{
     background:  var(--very-dark-blue);
     background-image: url(../images/bg-desktop.svg);
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: 0% bottom;
     display: flex;
@@ -155,7 +156,7 @@ body{
     display: flex;
     flex-direction: row;
     align-items: flex-end;
-    margin-top: -100px;
+    margin-top: -150px;
   }
 
   .card-1{
