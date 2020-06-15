@@ -11,3 +11,6 @@ My challenge is to build out this data storage component and get it looking as c
 My users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
+
+## Check result
+https://fernandrewm.github.io/fylo_data_storage_component/
