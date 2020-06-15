@@ -1,6 +1,6 @@
 # Challenge from Frontend Mentor - Fylo data storage component
 
-![Design preview for the Fylo data storage component coding challenge](images/desing/desktop-preview.jpg)
+![Design preview for the Fylo data storage component coding challenge](./desing/desktop-preview.jpg)
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
