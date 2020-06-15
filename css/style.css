@@ -1,0 +1,11 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+
+.container{
+  height: 100vh;
+  background-image: url("../images/bg-mobile.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
