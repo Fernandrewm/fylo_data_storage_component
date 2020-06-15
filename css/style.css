@@ -36,6 +36,10 @@ body{
   padding: 40px 0px 20px 40px;
 }
 
+.card-1 img{
+  width: 50%;
+}
+
 .options{
   margin-top: 30px;
   display: flex;
